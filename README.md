@@ -5,4 +5,4 @@ This README file is for CS305 Module 5 Assignment
 -Cameron Joerger <joerger.cameron@gmail.com>
 
 ### License and Copyright
- Licensed under the [GNU GPLv2 License]_(LICENSE)_
+ Licensed under the [GNU GPLv2 License]
