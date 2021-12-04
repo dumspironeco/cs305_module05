@@ -3,6 +3,7 @@ This README file is for CS305 Module 5 Assignment. Project consists of creating 
 
 ## Contributers
 -Cameron Joerger <joerger.cameron@gmail.com>
+-Nicholas Persley <nspersley20@gmail.com>
 
 ### License and Copyright
  Licensed under the [GNU GPLv2 License]
